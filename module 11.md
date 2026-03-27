@@ -274,20 +274,5 @@ int main()
 
 
 ## Result:
-Thus, the program has been verified successfully. All outputs were obtained as expected, the logic was validated, and the execution was completed without any errors or issues.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Thus, the program that counts the number of words in a given sentence is verified 
 successfully.
